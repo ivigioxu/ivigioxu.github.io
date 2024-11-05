@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ivigioxu.github.io/FhA/sitemap_index.txt
+Sitemap: https://ivigioxu.github.io/Usn/sitemap_index.txt
+Sitemap: https://ivigioxu.github.io/YIF/sitemap_index.txt
+Sitemap: https://ivigioxu.github.io/pvX/sitemap_index.txt
